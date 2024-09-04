@@ -1,19 +1,19 @@
 export const perguntas = [
     {
-        enunciado: " ",
+        enunciado: "Hoje em dia a tecnologia nos campos vão almentando cada vez mais ",
         alternativas: [
             {
-                texto: "",
+                texto: " Isso e bom ",
                 afirmacao: [
-                    "",
+                    " Ajuda a facilitar a vida do produtor agricola ",
                     ""
                 ],
                 proxima: 1,
             },
             {
-                texto: "",
+                texto: " Isso e ruim ",
                 afirmacao: [
-                    "",
+                    " E ruim por que a tecnologia tira empregos de pessoas ",
                     ""
                 ],
                 proxima: 2,
@@ -21,21 +21,21 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "",
+        enunciado: " Como a tecnologia está mudando o campo a sua professora quis fazer um debate com a sua sala de aula apresentando os pros e contras do aumento da tecnologia no campo qual lado você se posiciona ",
         alternativas: [
             {
-                texto: "",
+                texto: " A favor das tecnologias no campo para facilitar os plantios ",
                 afirmacao: [
-                    "",
+                    " As tecnologias facilitam muito em safras pois com dorne, GPS por satelites fica mas facil o plantil, passar os peticidas e a colheita ",
                     "",
                     ""
                 ],
                 proxima: 3,
             },
             {
-                texto: "",
+                texto: " Contra pois a tecnologia requer ter cursos para poder utilizar ",
                 afirmacao: [
-                    "",
+                    " É ruim pois as tecnologias tiram o emprego de pessoas ou por não saber utilizar essas novas tecnologias ou por que as maquinas fazem o trabalho do homen assim não precisando pagar mas a mão de obra ",
                     "",
                     ""
                 ],
@@ -44,21 +44,21 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "",
+        enunciado: " Cada vez mas o mundo está ficandomas moderno com novas tecnologia sendo criadas a todo tempo principalmente no campo modernizando maquinarios agriculas e até as sementes, com isso em aumentando cada vez mais no campo esta atraindo jovens para o campo. Vocễ acha isso bom ou não ",
         alternativas: [
             {
-                texto: "",
+                texto: " muito bom ",
                 afirmacao: [
-                    "",
+                    " Cada vez mais o campo está se modernizando e assim facilitar a vida dos agricultores ",
                     "",
                     ""
                 ],
                 proxima: 3,
             },
             {
-                texto: "",
+                texto: " bem ruim ",
                 afirmacao: [
-                    "",
+                    " Pois os jovens tiram o emprego das pessoas mais velhas por saber mexer nas tecnologias ",
                     "",
                     ""
                 ],
